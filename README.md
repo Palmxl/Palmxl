@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 ¡Hola, soy Juan Martín!  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 
 ## 🚀 Sobre mí  
 🎓 Estudiante de Ingeniería de Sistemas (6° semestre)  
