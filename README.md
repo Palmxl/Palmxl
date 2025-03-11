@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       📚 Siempre aprendiendo nuevas tecnologías
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
     </td>
   </tr>
 </table> 
