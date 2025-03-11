@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 ¡Hola, soy Juan Martín!  
-
+## 🚀 Sobre mí
 <table>
   <tr>
-    <td>
-    ## 🚀 Sobre mí 
+    <td> 
       🎓 Estudiante de Ingeniería de Sistemas (6° semestre) <br>
       💻 Apasionado por el desarrollo web y la ciberseguridad <br>
       📚 Siempre aprendiendo nuevas tecnologías
@@ -26,12 +25,7 @@ Here are some ideas to get you started:
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
     </td>
   </tr>
-</table>
-
- 
-🎓 Estudiante de Ingeniería de Sistemas (6° semestre)  
-💻 Apasionado por el desarrollo web y la ciberseguridad  
-📚 Siempre aprendiendo nuevas tecnologías  
+</table> 
 
 ## 🛠 Tecnologías y herramientas  
 ### 💻 Lenguajes de programación  
