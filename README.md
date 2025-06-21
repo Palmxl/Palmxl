@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td> 
-      🎓 Estudiante de Ingeniería de Sistemas (6° semestre) <br>
+      🎓 Estudiante de Ingeniería de Sistemas (7° semestre) <br>
       💻 Apasionado por el desarrollo web y la ciberseguridad <br>
       📚 Siempre aprendiendo nuevas tecnologías
     </td>
