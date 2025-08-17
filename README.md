@@ -44,22 +44,22 @@
 
 ## 📂 Proyectos Destacados
 <p align="center">
-  <a href="https://github.com/Palmxl/TuRepo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palmxl&repo=TuRepo1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Palmxl/Portafolio-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palmxl&repo=Portafolio-web&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Palmxl/TuRepo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palmxl&repo=TuRepo2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/TeamDinamitaWeb/ProyectoArriendaTuFinca-front">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeamDinamitaWeb&repo=ProyectoArriendaTuFinca-front&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <details>
   <summary>Más repos</summary>
   <br/>
-  <a href="https://github.com/Palmxl/TuRepo3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palmxl&repo=TuRepo3&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/TeamDinamitaWeb/ProyectoArriendaTuFinca">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeamDinamitaWeb&repo=ProyectoArriendaTuFinca&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Palmxl/TuRepo4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palmxl&repo=TuRepo4&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Introduccion-a-la-IA/Proyecto-ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Introduccion-a-la-IA&repo=Proyecto-ML&theme=tokyonight&hide_border=true" />
   </a>
 </details>
 
