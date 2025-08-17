@@ -3,6 +3,11 @@
   <img src="./assets/palmxl-header.svg" alt="Palmxl header" width="100%"/>
 </p>
 
+<!-- Animación typing como imagen aparte (fuera del SVG) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=800&color=00E7F0&center=true&vCenter=true&width=900&lines=Fullstack+Developer;DevOps+%26+Automatizaci%C3%B3n;Ciberseguridad;Siempre+aprendiendo+algo+nuevo" alt="Typing animation"/>
+</p>
+
 ---
 
 ## 🧪 About
