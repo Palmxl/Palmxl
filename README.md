@@ -1,6 +1,6 @@
-<!-- HEADER LOCAL -->
+<!-- HEADER: SVG local solo con "Palmxl" -->
 <p align="center">
-  <img src="./assets/palmxl-header.svg" alt="Palmxl header" width="100%"/>
+  <img src="./assets/palmxl-header-local.svg" alt="Palmxl header" width="100%"/>
 </p>
 
 <!-- Animación typing como imagen aparte (fuera del SVG) -->
