@@ -106,7 +106,7 @@
 
 ---
 
-<!-- FOOTER LOCAL -->
+<!-- FOOTER -->
 <p align="center">
-  <img src="./assets/palmxl-footer.svg" alt="Palmxl footer" width="100%"/>
+  <img src="./assets/palmxl-footer-wave.svg" alt="Palmxl footer" width="100%"/>
 </p>
