@@ -1,0 +1,31 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad">
+      <stop offset="0%" stop-color="#0F0C29">
+        <animate attributeName="stop-color" values="#0F0C29;#302B63;#24243E;#0F0C29" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#302B63">
+        <animate attributeName="stop-color" values="#302B63;#24243E;#0F0C29;#302B63" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#24243E">
+        <animate attributeName="stop-color" values="#24243E;#0F0C29;#302B63;#24243E" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#grad)" />
+  <path d="M0,220 C300,280 900,160 1200,240 L1200,300 L0,300 Z" fill="white" opacity="0.05"/>
+
+  <g filter="url(#glow)">
+    <text x="50%" y="50%" text-anchor="middle"
+          font-family="JetBrains Mono, Fira Code, monospace"
+          font-size="64" font-weight="800" fill="#F8F8FF" letter-spacing="1.5">
+      Palmxl
+    </text>
+  </g>
+</svg>
