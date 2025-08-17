@@ -1,72 +1,107 @@
-# 👋 ¡Hola! Soy Juan Martín Sánchez  
-### 🚀 Fullstack Dev | Apasionado por el desarrollo web, móvil y la ciberseguridad
-
-<table>
-  <tr>
-    <td>
-      🎓 Estudiante de Ingeniería de Sistemas (7° semestre)<br>
-      💡 Explorando tecnologías web, DevOps y automatización<br>
-      🧠 En constante aprendizaje y creando cosas desde cero<br>
-      🔐 Interesado en seguridad informática
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="dev-gif"/>
-    </td>
-  </tr>
-</table>
+<!-- HEADER LOCAL -->
+<p align="center">
+  <img src="./assets/palmxl-header.svg" alt="Palmxl header" width="100%"/>
+</p>
 
 ---
 
-## 🛠 Tecnologías y herramientas
+## 🧪 About
+- 🎓 Estudiante de **Ingeniería de Sistemas (7° semestre)**
+- ⚙️ Enfocado en **tecnologías web, móviles y DevOps**
+- 🛡️ Interesado en **ciberseguridad**
+- 🧠 Siempre aprendiendo y construyendo proyectos desde cero
 
-### 💻 Lenguajes de programación  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-### 🌐 Desarrollo Web & Móvil  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+## 🛠️ Tech Stack
 
-### 🗄️ Bases de datos  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+### 💻 Lenguajes
+[![Skills](https://skillicons.dev/icons?i=ts,js,java,py,cpp,kotlin,dart,c)](https://skillicons.dev)
 
-### ⚙️ Dev Tools & Frameworks  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-%23172a3a.svg?style=for-the-badge&logo=cypress&logoColor=white)
+### 🌐 Web & Mobile
+[![Skills](https://skillicons.dev/icons?i=angular,react,flutter,nodejs,html,css,tailwind)](https://skillicons.dev)
 
-### 🚀 DevOps  
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🗄️ Bases de Datos
+[![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis)](https://skillicons.dev)
+
+### ⚙️ Tools
+[![Skills](https://skillicons.dev/icons?i=spring,git,github,figma,cypress,postman,linux,bash)](https://skillicons.dev)
+
+### 🚀 DevOps
+[![Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,nginx,githubactions)](https://skillicons.dev)
+
+---
+
+## 📚 Actualmente aprendiendo
+[![Learning](https://skillicons.dev/icons?i=androidstudio,aws,gcp)](https://skillicons.dev)
+
+---
+
+## 📂 Proyectos Destacados
+<p align="center">
+  <a href="https://github.com/Palmxl/TuRepo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palmxl&repo=TuRepo1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Palmxl/TuRepo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palmxl&repo=TuRepo2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<details>
+  <summary>Más repos</summary>
+  <br/>
+  <a href="https://github.com/Palmxl/TuRepo3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palmxl&repo=TuRepo3&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Palmxl/TuRepo4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palmxl&repo=TuRepo4&theme=tokyonight&hide_border=true" />
+  </a>
+</details>
+
+---
+
+## 🏆 Trofeos
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Palmxl&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
 ## 📈 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Palmxl&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palmxl&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Palmxl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Palmxl&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palmxl&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Palmxl&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Palmxl/Palmxl/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ---
 
-## 🌐 Redes y contacto
+## 🌐 Contacto
+<div align="center">
+  <a href="https://www.linkedin.com/in/juan-martín-sánchez-0769a133a/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:jmartinsb1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://www.instagram.com/_juanm12_/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://github.com/Palmxl"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="https://twitch.tv/Palmxl"><img src="https://skillicons.dev/icons?i=twitch" width="45"/></a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-martín-sánchez-0769a133a/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmartinsb1208@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_juanm12_/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palmxl)
+---
+
+<!-- CONTADOR DE VISITAS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Palmxl&style=for-the-badge&color=00E7F0" alt="Profile views"/>
+</p>
+
+---
+
+<!-- FOOTER LOCAL -->
+<p align="center">
+  <img src="./assets/palmxl-footer.svg" alt="Palmxl footer" width="100%"/>
+</p>
