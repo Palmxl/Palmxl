@@ -67,9 +67,11 @@
 
 ## 🏆 Trofeos
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Palmxl&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&v=2" />
+  <img
+    src="https://github-profile-trophy-five-tau.vercel.app/?username=Palmxl&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=8&margin-h=8&v=1"
+    alt="GitHub Trophies"
+  />
 </p>
-
 
 ---
 
