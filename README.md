@@ -24,16 +24,17 @@
 [![Skills](https://skillicons.dev/icons?i=ts,js,java,py,cpp,kotlin,dart,c)](https://skillicons.dev)
 
 ### 🌐 Web & Mobile
-[![Skills](https://skillicons.dev/icons?i=angular,react,flutter,nodejs,html,css,tailwind)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=angular,react,flutter,nodejs,express,html,css,tailwind)](https://skillicons.dev)
 
 ### 🗄️ Bases de Datos
 [![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis)](https://skillicons.dev)
 
 ### ⚙️ Tools
-[![Skills](https://skillicons.dev/icons?i=spring,git,github,figma,cypress,postman,linux,bash)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=spring,git,github,githubpages,figma,cypress,postman,linux,bash)](https://skillicons.dev)
 
 ### 🚀 DevOps
 [![Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,nginx,githubactions)](https://skillicons.dev)
+
 
 ---
 
