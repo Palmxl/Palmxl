@@ -30,10 +30,7 @@
 [![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis)](https://skillicons.dev)
 
 ### ⚙️ Tools
-[![Skills](https://skillicons.dev/icons?i=spring,git,github,githubpages,figma,cypress,postman,linux,bash)](https://skillicons.dev)
-<a href="https://pages.github.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Octicons-mark-github.svg" width="45" alt="GitHub Pages" title="GitHub Pages"/>
-</a>
+[![Skills](https://skillicons.dev/icons?i=spring,git,github,figma,cypress,postman,linux,bash)](https://skillicons.dev)
 
 ### 🚀 DevOps
 [![Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,nginx,githubactions)](https://skillicons.dev)
