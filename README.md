@@ -11,7 +11,7 @@
 ---
 
 ## 🧪 About
-- 🎓 Estudiante de **Ingeniería de Sistemas (7° semestre)**
+- 🎓 Estudiante de **Ingeniería de Sistemas (8° semestre)**
 - ⚙️ Enfocado en **tecnologías web, móviles y DevOps**
 - 🛡️ Interesado en **ciberseguridad**
 - 🧠 Siempre aprendiendo y construyendo proyectos desde cero
