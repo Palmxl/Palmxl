@@ -1,30 +1,25 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="./assets/palmxl-header-wave.svg" width="100%" />
-</p>
-
-<!-- TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=00E7F0&center=true&vCenter=true&width=900&lines=Software+Engineer;Software+Architecture+%26+Scalable+Systems;Backend+%7C+Distributed+Systems+%7C+DevOps" />
-</p>
+<!-- HERO -->
+<h1 align="center">Palmxl</h1>
 
 <p align="center">
   <b>Systems Engineer · Software Architect · Full-Stack Developer</b>
 </p>
 
 <p align="center">
-  Building scalable systems, designing robust architectures, and turning ideas into production-ready solutions.
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00E7F0&center=true&vCenter=true&width=800&lines=Designing+Scalable+Systems;Building+Reliable+Software;Backend+%7C+Architecture+%7C+DevOps" />
+</p>
+
+<p align="center">
+  Turning complex problems into scalable and maintainable solutions.
 </p>
 
 ---
 
 ## 🧠 About
 
-I am a Systems Engineer focused on designing and building scalable, efficient, and reliable software systems.
+Systems Engineer focused on designing and building scalable, efficient, and reliable software systems.
 
-I have experience working across the full software lifecycle, from system design and architecture to development and deployment. My work involves building backend services, structuring applications, and designing systems that prioritize scalability, maintainability, and performance.
-
-I am particularly interested in software architecture, distributed systems, and DevOps practices, aiming to create solutions that deliver real-world impact through technology.
+Experience working across the full software lifecycle, from system design and architecture to development and deployment. Strong emphasis on backend services, system structure, and solutions that prioritize scalability, maintainability, and performance.
 
 ---
 
@@ -72,11 +67,6 @@ I am particularly interested in software architecture, distributed systems, and 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palmxl&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palmxl&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Palmxl&theme=tokyonight"/>
 </p>
 
 ---
@@ -140,14 +130,6 @@ I am particularly interested in software architecture, distributed systems, and 
 
 ---
 
-<!-- VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Palmxl&style=for-the-badge&color=00E7F0"/>
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="./assets/palmxl-footer-wave.svg" width="100%"/>
 </p>
