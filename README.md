@@ -1,18 +1,24 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=00E7F0&center=true&vCenter=true&width=500&lines=Palmxl" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
 
-<p align="center">
-  <b>Systems Engineer · Software Architect · Full-Stack Developer</b>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=3000&pause=1000&color=00E7F0&center=true&vCenter=true&width=600&lines=%3E+Palmxl_;%3E+initializing...;%3E+system+ready" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00E7F0&center=true&vCenter=true&width=800&lines=Designing+Scalable+Systems;Building+Reliable+Software;Backend+%7C+Architecture+%7C+DevOps" />
-</p>
+<br/>
 
-<p align="center">
-  Turning complex problems into scalable and maintainable solutions.
-</p>
+<code>Systems Engineer · Software Architect · Full-Stack Developer</code>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FFA3&center=true&vCenter=true&width=700&lines=%3E+designing+scalable+systems;%3E+building+reliable+software;%3E+backend+%7C+architecture+%7C+devops" />
+
+<br/>
+
+<sub style="color:#8b949e;">
+  > turning complex problems into scalable and maintainable solutions_
+</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
