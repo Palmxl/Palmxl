@@ -20,19 +20,22 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Lenguajes
-[![Skills](https://skillicons.dev/icons?i=ts,js,java,py,cpp,kotlin,dart,c)](https://skillicons.dev)
+### 💻 Languages
+[![Skills](https://skillicons.dev/icons?i=ts,js,java,py,cpp,kotlin,dart,c,swift,rust,ruby,go)](https://skillicons.dev)
+
+### 🧩 Frameworks & Libraries
+[![Skills](https://skillicons.dev/icons?i=react,angular,nodejs,express,spring,flutter,astro,rails,nextjs,nestjs)](https://skillicons.dev)
 
 ### 🌐 Web & Mobile
-[![Skills](https://skillicons.dev/icons?i=angular,react,flutter,nodejs,express,html,css,tailwind)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
 
-### 🗄️ Bases de Datos
-[![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis)](https://skillicons.dev)
+### 🗄️ Databases
+[![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,sqlite,supabase,dynamodb,neo4j,cassandra)](https://skillicons.dev)
 
 ### ⚙️ Tools
-[![Skills](https://skillicons.dev/icons?i=spring,git,github,figma,cypress,postman,linux,bash)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,figma,cypress,postman,linux,bash)](https://skillicons.dev)
 
-### 🚀 DevOps
+### 🚀 DevOps & Infrastructure
 [![Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,nginx,githubactions)](https://skillicons.dev)
 
 
