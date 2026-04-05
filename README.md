@@ -20,6 +20,16 @@
 </tr>
 </table>
 
+<p align="center">
+  <code>> open https://www.palmxl.cv</code>
+</p>
+
+<p align="center">
+  <a href="https://www.palmxl.cv">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-www.palmxl.cv-00E7F0?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 About
