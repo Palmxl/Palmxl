@@ -1,5 +1,6 @@
-<!-- HERO -->
-<h1 align="center">Palmxl</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=00E7F0&center=true&vCenter=true&width=500&lines=Palmxl" />
+</p>
 
 <p align="center">
   <b>Systems Engineer · Software Architect · Full-Stack Developer</b>
@@ -17,9 +18,23 @@
 
 ## 🧠 About
 
+<table>
+<tr>
+<td width="55%">
+
 Systems Engineer focused on designing and building scalable, efficient, and reliable software systems.
 
 Experience working across the full software lifecycle, from system design and architecture to development and deployment. Strong emphasis on backend services, system structure, and solutions that prioritize scalability, maintainability, and performance.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" style="border-radius: 12px;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
